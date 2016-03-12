@@ -1,0 +1,1 @@
+# emgc-zsh-theme
